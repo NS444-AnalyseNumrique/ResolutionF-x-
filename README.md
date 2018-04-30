@@ -1,4 +1,6 @@
 # Resolution d'une equation F(x) = 0
+## &Eacute;noncée
+[&Eacute;noncée du TP](Enonce/TP%20MN%2001.pdf)
 ## Solution
 1. Methode de Dichotomie 
    - [Script MATLAB/Octave Sans l'utilisation des fonctions](MATLAB/TP01/tst_dichotomie.m)
