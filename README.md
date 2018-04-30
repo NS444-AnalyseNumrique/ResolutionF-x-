@@ -1,5 +1,5 @@
 # Resolution d'une equation F(x) = 0
-## &Eacute;noncée
+## &Eacute;noncé
 [&Eacute;noncée du TP](Enonce/TP%20MN%2001.pdf)
 ## Solution
 1. Methode de Dichotomie 
