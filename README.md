@@ -2,7 +2,7 @@
 ## Solution
 1. Methode de Dichotomie 
    -  [Script MATLAB/Octave Sans l'utilisation des fonctions](MATLAB/TP01/tst_dichotomie.m)
-   -  [Script MATLAB/Octave Avec l'utilisation des fonctions](MATLAB/TP01/tst_dichotomie_1.m)
+   -  [Script MATLAB/Octave Avec l'utilisation des fonctions](MATLAB/TP01/tst_Dichotomie_1.m)
    -  [Python](Python/TP01/tst_Dicho.py)
    -  [JAVA](JAVA/src/TP01/ResolutionFx.java)
 2. Méthode du Point Fixe 
