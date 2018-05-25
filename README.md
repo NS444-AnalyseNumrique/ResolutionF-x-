@@ -10,7 +10,7 @@
    - [C/C++](Cpp/SolveFx/SolveFx/SolveFx.cpp)
 2. Méthode du Point Fixe 
    - [Script MATLAB/Octave Sans l'utilisation des fonctions](MATLAB/TP01/tst_PointFixe.m)
-   - [Script MATLAB/Octave Sans l'utilisation des fonctions](MATLAB/TP01/tst_PointFixe_1.m)
+   - [Script MATLAB/Octave Aans l'utilisation des fonctions](MATLAB/TP01/tst_PointFixe_1.m)
    - [Python](Python/TP01/tst_ptFixe.py)
    - [JAVA](JAVA/src/TP01/ResolutionFx.java)
    - [C/C++](Cpp/SolveFx/SolveFx/SolveFx.cpp)
